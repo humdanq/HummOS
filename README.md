@@ -52,15 +52,15 @@ Then run:
 ## Acknowledgments
 
 ### Tutorials
-* Mxy's assembly tutorial on youtube (https://www.youtube.com/@MxyAhoy)
-* Nanobyte's operating system tutorials on youtube (https://www.youtube.com/@nanobyte-dev/videos)
+* [Mxy's assembly tutorial on youtube](https://www.youtube.com/@MxyAhoy)
+* [Nanobyte's operating system tutorials on youtube](https://www.youtube.com/@nanobyte-dev/videos)
 
 ### ASCII Art Tools / Sources
-* Image to ASCII - https://www.asciiart.eu/image-to-ascii
-* Text to ASCII - https://patorjk.com/software/taag/
-* Lion ASCII - https://asciiart.cc/view/12679
-* Unicorn ASCII - cjr - https://www.ascii-art.de/ascii/uvw/unicorn.txt
-* Other ASCII - https://www.asciiart.eu/
+* [Image to ASCII](https://www.asciiart.eu/image-to-ascii)
+* [Text to ASCII](https://patorjk.com/software/taag/)
+* [Lion ASCII Art](https://asciiart.cc/view/12679)
+* [Unicorn ASCII Art](https://www.ascii-art.de/ascii/uvw/unicorn.txt)
+* [Other ASCII Art I Used](https://www.asciiart.eu/)
 
 ### Other Software
 * GNU GRUB - Free Software Foundation
